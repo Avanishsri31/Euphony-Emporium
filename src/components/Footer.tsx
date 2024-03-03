@@ -74,9 +74,9 @@ function Footer() {
           </div>
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-            <p>New Delhi, India</p>
-            <p>Delhi 10001</p>
-            <p>Email: info@musicschool.com</p>
+            <p>Uttar Pradesh, India</p>
+            <p>Uttar Pradesh 10001</p>
+            <p>Email: info@Euphony Emporium.com</p>
             <p>Phone: (123) 456-7890</p>
           </div>
           </div>
